@@ -11,10 +11,14 @@
             "id": "9d8b3fb781fe24ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Fitness/Schedule.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schedule"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Fitness/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Test no. 1..md",
+                "file": "Personal/Fitness/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test no. 1..md",
+                "file": "Personal/Fitness/Schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcef173294e9fa9a",
+  "active": "9d8b3fb781fe24ff",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
     "Test/Test no. 1..md",
