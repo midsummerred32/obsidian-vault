@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0780b1658ec52bb8",
+        "id": "37b15e1c9443c05c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d156de40388dc4e",
+            "id": "d7f4f89a62d104c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Test no. 1..md",
+                "file": "Personal/Fitness/Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test no. 1."
+              "title": "Schedule"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test no. 1..md",
+                "file": "Personal/Fitness/Schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d5bebd9d8ac8ce3f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,38 +197,40 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d156de40388dc4e",
+  "active": "3ed3bc320b26f026",
   "lastOpenFiles": [
-    "Test/Test no. 1.md",
     "Test/Test no. 1..md",
-    "School/2026-2027/Homework.md",
-    "School/2024-2025",
-    "School/Government & Politics in US/Untitled",
-    "School/2026-2027",
-    "Personal/Fitness/Schedule.md",
-    "School/To do List.md",
-    "Personal/Fitness/Log.md",
-    "README.md",
-    "Welcome.md",
-    "Personal/Scouting/Leader Meeting 9-17.md",
-    "Excalidraw/Drawing 2026-08-01 09.06.26.excalidraw.md",
-    "School/2024-2025/Government & Politics in US/Chapter 4.md",
-    "Personal/Scouting/T882_Parent_Meeting_91724.pdf",
-    "Excalidraw/Drawing 2024-12-14 12.31.55.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-16 09.24.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-14 12.26.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.30.44.excalidraw.md",
-    "Personal/Fitness",
-    "Personal/Scouting",
-    "School/2024-2025/Government & Politics in US",
     "Test",
+    "School/2024-2025/Government & Politics in US/Chapter 4.md",
+    "School/2026-2027/Homework.md",
+    "School/2024-2025/Government & Politics in US",
+    "School/2026-2027",
+    "School/2024-2025",
     "School",
-    "Personal"
+    "README.md",
+    "Personal/Scouting/T882_Parent_Meeting_91724.pdf",
+    "Personal/Scouting/Leader Meeting 9-17.md",
+    "Personal/Fitness/Schedule.md",
+    "Personal/Scouting",
+    "Personal/Fitness",
+    "Personal",
+    "Excalidraw/Drawing 2026-08-01 09.06.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-16 09.24.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-14 12.31.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-14 12.26.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
+    "Excalidraw",
+    "Test/Test no. 1.md",
+    "Welcome.md",
+    "School/2026-2027/tasks.md",
+    "Personal/Fitness/Log.md",
+    "School/Government & Politics in US/Chapter 4.md",
+    "School/To do List.md"
   ]
 }
