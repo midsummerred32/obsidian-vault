@@ -11,14 +11,15 @@
             "id": "2d156de40388dc4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Test/Test no. 1..md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Test no. 1."
+              "icon": "diff",
+              "title": "Diff: data.json  (Index)"
             }
           }
         ]
@@ -99,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Test no. 1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,9 +203,9 @@
   },
   "active": "2d156de40388dc4e",
   "lastOpenFiles": [
+    "Test/Test no. 1..md",
     "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
-    "Test/Test no. 1..md",
     "Test/Test no. 1.md",
     "School/2026-2027/Homework.md",
     "School/2024-2025",
