@@ -142,6 +142,21 @@
             }
           },
           {
+            "id": "b19c35f4fedcc98c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test/Test no. 1..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
             "id": "45861045accd277f",
             "type": "leaf",
             "state": {
@@ -156,26 +171,21 @@
             }
           },
           {
-            "id": "b19c35f4fedcc98c",
+            "id": "dcef173294e9fa9a",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Test/Test no. 1..md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +197,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2d156de40388dc4e",
   "lastOpenFiles": [
-    "Test/Test no. 1.md",
+    "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
     "Test/Test no. 1..md",
+    "Test/Test no. 1.md",
     "School/2026-2027/Homework.md",
     "School/2024-2025",
     "School/Government & Politics in US/Untitled",
@@ -209,10 +222,8 @@
     "Personal/Scouting/T882_Parent_Meeting_91724.pdf",
     "Excalidraw/Drawing 2024-12-14 12.31.55.excalidraw.md",
     "Excalidraw/Drawing 2025-02-16 09.24.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
     "Excalidraw/Drawing 2024-12-14 12.26.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.30.44.excalidraw.md",
     "Personal/Fitness",
     "Personal/Scouting",
