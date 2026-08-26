@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/2026-2027/Tasks.md",
+                "file": "School/2026-2027/Homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Homework"
             }
           }
         ],
@@ -214,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04dda1f87dd3a03",
+  "active": "3ed3bc320b26f026",
   "lastOpenFiles": [
+    "School/2026-2027/Tasks.md",
     "School/2026-2027/Homework.md",
     "conflict-files-obsidian-git.md",
-    "School/2026-2027/Tasks.md",
     "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
     "Test/Test no. 1..md",
     "Excalidraw/Drawing 2025-11-28 13.49.37.excalidraw.md",
