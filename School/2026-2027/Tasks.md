@@ -1,1 +1,3 @@
 - [ ] Que hiciste durante el verano? 📅 2026-08-31 #spanish
+- [ ] Read 3.1 and 3.2
+- [ ] unit 8 progress check 📅 
