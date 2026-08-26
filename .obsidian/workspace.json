@@ -190,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ed3bc320b26f026",
+  "active": "d04dda1f87dd3a03",
   "lastOpenFiles": [
     "School/2026-2027/Tasks.md",
     "School/2026-2027/Homework.md",
