@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/2026-2027/Tasks.md",
+                "file": "School/2026-2027/Homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Homework"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "8f51bc2955b31b66",
   "lastOpenFiles": [
-    "School/2026-2027/Homework.md",
     "School/2026-2027/Tasks.md",
+    "School/2026-2027/Homework.md",
     "Test/Test no. 1..md",
     "Test",
     "README.md",

@@ -1,3 +1,3 @@
 - [x] Que hiciste durante el verano? #spanish 📅 2026-08-31 ✅ 2026-08-27
 - [x] Read 3.1 and 3.2 #biology 📅 2026-08-27 ✅ 2026-08-26
-- [ ] unit 8 progress check 📅 2026-08-28 #biology
+- [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-08-27
