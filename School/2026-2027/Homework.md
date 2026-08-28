@@ -58,11 +58,11 @@ tags include #calculus
 sort by due
 ```
 
-### AP Chemisty
+### AP Chemistry
 
 ```tasks
 not done
-tags include #chemisty
+tags include #chemistry
 sort by due
 ```
 ### AP Spanish Language and Culture
