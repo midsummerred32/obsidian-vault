@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "24de09979322c91f",
+    "id": "54da742fd9ce80ec",
     "type": "split",
     "children": [
       {
-        "id": "ed5f9e3237ed7478",
+        "id": "29cf22317f5e1f3e",
         "type": "tabs",
         "children": [
           {
-            "id": "b98f04b107a79204",
+            "id": "4de9254de1ae77a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Fitness/Schedule.md",
+                "file": "School/2026-2027/AP Biology/3.1 & 3.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "3.1 & 3.2"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "899e725326561dea",
+    "id": "f39042ca4a541bc7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9614283fb0be243c",
+        "id": "405a15c20ca33c7b",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "32a0c59d51ab7ba1",
+        "id": "15f757b48f005df4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "1f8d5a8a4a43de12",
+        "id": "d5ffa0845b14bf02",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "id": "b6567abbd1122929",
+        "id": "65987d7322e1813a",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "f1542078cedde5d7",
+        "id": "ea3534624bfc79d7",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,15 +108,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "da5e4d51eff63df7",
+    "id": "a59b79e8e52b76b5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "77ee96db840fcab3",
+        "id": "86f326233eec22fa",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "School/2026-2027/Homework.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
         }
       },
       {
-        "id": "73484ba282382cd1",
+        "id": "3a3c5602e92a7908",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -143,7 +144,7 @@
         }
       },
       {
-        "id": "cf7e2aef0afc5946",
+        "id": "ccd3ac541dc21f3b",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -157,7 +158,7 @@
         }
       },
       {
-        "id": "b8c83a0ad93925e5",
+        "id": "923065f1ade92ea6",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -171,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,27 +179,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b98f04b107a79204",
+  "active": "4de9254de1ae77a7",
   "lastOpenFiles": [
-    "School/2026-2027/Homework.md",
+    "School/2026-2027/AP Biology/3.3 ~ Carbohydrates.md",
     "School/2026-2027/AP Biology/3.1 & 3.2.md",
+    "Personal/Fitness/Schedule.md",
+    "School/2026-2027/Homework.md",
     "School/2026-2027/Tasks.md",
+    "School/2026-2027/AP Biology",
     "Test/Test no. 1..md",
     "Test",
     "README.md",
-    "School/2024-2025/Government & Politics in US/Chapter 4.md",
-    "School/2026-2027/AP Biology/3.3 ~ Carbohydrates.md",
-    "School/2024-2025/Government & Politics in US",
-    "School/2026-2027/AP Biology",
-    "School/2024-2025",
-    "School/2026-2027",
-    "School",
     "Personal/Scouting/T882_Parent_Meeting_91724.pdf",
     "Personal/Scouting/Leader Meeting 9-17.md",
-    "Personal/Fitness/Schedule.md",
     "Personal/Scouting",
     "Personal/Fitness",
     "Personal",
@@ -210,6 +206,11 @@
     "Excalidraw/Drawing 2025-02-16 09.24.18.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.30.46.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 06.28.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-14 12.26.42.excalidraw.md"
+    "Excalidraw/Drawing 2024-12-14 12.26.42.excalidraw.md",
+    "Excalidraw",
+    "School/2024-2025/Government & Politics in US/Chapter 4.md",
+    "School/2024-2025/Government & Politics in US",
+    "School/2024-2025",
+    "School/2026-2027"
   ]
 }
