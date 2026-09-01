@@ -2,11 +2,11 @@
 | Day       | Exercise           |
 | --------- | ------------------ |
 | Monday    | Full Body Strength |
-| Tuesday   | Cardio             |
+| Tuesday   | Flexibility        |
 | Wednesday | HIIT               |
 | Thursday  | Full Body Strength |
-| Friday    | Flexibility        |
-| Saturday  | Active Recovery    |
+| Friday    | Active Rest        |
+| Saturday  | Cardio             |
 | Sunday    | Active Recovery    |
 > [!success] Requirements
 > 2 - Full Body Strength 
