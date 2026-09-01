@@ -3,3 +3,4 @@
 - [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-08-27
 - [x] Unit 1 Progress Check: MCQ #chemistry 📅 2026-09-03 ✅ 2026-08-31
 - [ ] CCP week 2 #english
+- [ ] 1.7 you do #chemistry  📅 2026-09-02 
