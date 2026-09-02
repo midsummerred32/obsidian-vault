@@ -3,6 +3,6 @@
 - [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-08-27
 - [x] Unit 1 Progress Check: MCQ #chemistry 📅 2026-09-03 ✅ 2026-08-31
 - [ ] CCP week 2 #english
-- [ ] Page 40 problems 📅 2026-09-02 #calculus
+- [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
 - [ ] Submit ACT scores 📅 2026-11-01
 - [ ] submit college apps📅 2026-11-01
