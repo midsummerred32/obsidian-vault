@@ -7,3 +7,4 @@
 - [ ] Submit ACT scores 📅 2026-11-01
 - [ ] submit college apps📅 2026-11-01
 - [ ] i am from poem due 📅2026-09-04 #english  
+- [ ] news 📅 2026-09-14 #spanish 
