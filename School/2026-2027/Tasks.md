@@ -6,5 +6,5 @@
 - [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
 - [ ] Submit ACT scores 📅 2026-11-01
 - [ ] submit college apps📅 2026-11-01
-- [ ] i am from poem due 📅2026-09-04 #english  
+- [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
 - [ ] news 📅 2026-09-14 #spanish 
