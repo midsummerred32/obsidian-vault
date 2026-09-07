@@ -4,7 +4,8 @@
 - [x] Unit 1 Progress Check: MCQ #chemistry 📅 2026-09-03 ✅ 2026-08-31
 - [x] CCP week 2 #english ✅ 2026-09-02
 - [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
-- [ ] Submit ACT scores 📅 2026-11-01
-- [ ] submit college apps📅 2026-11-01
+- [/] Submit ACT scores 📅 2026-11-01
+- [/] submit college apps📅 2026-11-01
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
-- [ ] news 📅 2026-09-14 #spanish 
+- [/] news #spanish 📅 2026-09-14
+- [ ] ccp week 3 📅 2026-09-11 #english 
