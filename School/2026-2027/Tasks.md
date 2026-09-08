@@ -9,6 +9,6 @@
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
 - [/] news #spanish 📅 2026-09-14
 - [x] ccp week 3 #english 📅 2026-09-11 ✅ 2026-09-08
-- [ ] uakron honors college 📅 2027-02-01 
+- [ ] [uakron honors college] (https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 
 - [ ] vsper anki #chemistry 📅 2026-09-28 
 - [ ] personal narrative rough draft #english 📅 2026-09-14 
