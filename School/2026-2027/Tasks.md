@@ -8,6 +8,7 @@
 - [/] submit college apps📅 2026-11-01
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
 - [/] news #spanish 📅 2026-09-14
-- [ ] ccp week 3 📅 2026-09-11 #english 
-- [ ] uakron honors college
+- [x] ccp week 3 #english 📅 2026-09-11 ✅ 2026-09-08
+- [ ] uakron honors college 📅 2027-02-01 
 - [ ] vsper anki #chemistry 📅 2026-09-28 
+- [ ] personal narrative rough draft #english 📅 2026-09-14 
