@@ -9,3 +9,4 @@
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
 - [/] news #spanish 📅 2026-09-14
 - [ ] ccp week 3 📅 2026-09-11 #english 
+- [ ] uakron honors college
