@@ -1,6 +1,6 @@
 - [x] Que hiciste durante el verano? #spanish 📅 2026-08-31 ✅ 2026-08-27
 - [x] Read 3.1 and 3.2 #biology 📅 2026-08-27 ✅ 2026-08-26
-- [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-08-27
+- [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-09-09
 - [x] Unit 1 Progress Check: MCQ #chemistry 📅 2026-09-03 ✅ 2026-08-31
 - [x] CCP week 2 #english ✅ 2026-09-02
 - [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
@@ -9,6 +9,7 @@
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
 - [/] news #spanish 📅 2026-09-14
 - [x] ccp week 3 #english 📅 2026-09-11 ✅ 2026-09-08
-- [ ] [uakron honors college] (https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 
+- [ ] [uakron honors college](https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 
 - [ ] vsper anki #chemistry 📅 2026-09-28 
 - [ ] personal narrative rough draft #english 📅 2026-09-14 
+- [ ] unit 1 progress check #biology 📅 2026-09-14 
