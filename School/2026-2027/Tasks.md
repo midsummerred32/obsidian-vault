@@ -5,11 +5,11 @@
 - [x] CCP week 2 #english ✅ 2026-09-02
 - [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
 - [x] Submit ACT scores 📅 2026-11-01 ✅ 2026-09-08
-- [/] submit college apps📅 2026-11-01
+- [x] submit college apps 📅 2026-11-01 ✅ 2026-09-13
 - [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
-- [/] news #spanish 📅 2026-09-14
+- [x] news #spanish 📅 2026-09-14 ✅ 2026-09-11
 - [x] ccp week 3 #english 📅 2026-09-11 ✅ 2026-09-08
-- [ ] [uakron honors college](https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 
-- [ ] vsper anki #chemistry 📅 2026-09-28 
-- [ ] personal narrative rough draft #english 📅 2026-09-14 
-- [ ] unit 1 progress check #biology 📅 2026-09-14 
+- [x] [uakron honors college](https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 ✅ 2026-09-13
+- [x] vsper anki #chemistry 📅 2026-09-28 ✅ 2026-09-10
+- [x] personal narrative rough draft #english 📅 2026-09-14 ✅ 2026-09-13
+- [x] unit 1 progress check #biology 📅 2026-09-14 ✅ 2026-09-10
