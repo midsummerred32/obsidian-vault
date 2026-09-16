@@ -15,4 +15,4 @@
 - [x] unit 1 progress check #biology 📅 2026-09-14 ✅ 2026-09-10
 - [x] read 4.1 #biology ✅ 2026-09-16
 - [x] peer review https://brightspace.uakron.edu/d2l/le/4851509/discussions/threads/3302622/View #english 📅 2026-09-17 ✅ 2026-09-15
-- [ ] read 4.2 📅 2026-09-17 
+- [x] read 4.2 📅 2026-09-17 ✅ 2026-09-16
