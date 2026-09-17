@@ -16,3 +16,6 @@
 - [x] read 4.1 #biology ✅ 2026-09-16
 - [x] peer review https://brightspace.uakron.edu/d2l/le/4851509/discussions/threads/3302622/View #english 📅 2026-09-17 ✅ 2026-09-15
 - [x] read 4.2 📅 2026-09-17 ✅ 2026-09-16
+- [ ] Read 4.3 #biology 📅 2026-09-18 
+- [ ] Plastic Bottle 📅 2026-09-22 #biology 
+- [ ] corrections #biology 📅 2026-09-22 
