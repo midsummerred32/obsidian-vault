@@ -19,3 +19,5 @@
 - [x] Read 4.3 #biology 📅 2026-09-18 ✅ 2026-09-17
 - [ ] Plastic Bottle 📅 2026-09-22 #biology 
 - [x] corrections #biology 📅 2026-09-22 ✅ 2026-09-17
+- [ ] read 4.4
+- [ ] lab graph
