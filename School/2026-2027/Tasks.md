@@ -21,4 +21,5 @@
 - [x] corrections #biology 📅 2026-09-22 ✅ 2026-09-17
 - [x] read 4.4 ✅ 2026-09-22
 - [x] lab graph ✅ 2026-09-22
-- [ ] video #spanish 📅 2026-09-28 
+- [ ] video #spanish 📅 2026-09-28
+- [ ] ai paper #english 📅 2026-09-28 
