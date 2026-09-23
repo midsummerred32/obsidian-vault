@@ -23,3 +23,5 @@
 - [x] lab graph ✅ 2026-09-22
 - [ ] video #spanish 📅 2026-09-28
 - [ ] ai paper #english 📅 2026-09-28 
+- [ ] cell profile #biology 📅 2026-09-25
+- [ ] read 4.5 #biology 📅 2026-09-24 
