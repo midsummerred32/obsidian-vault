@@ -24,5 +24,5 @@
 - [ ] video #spanish 📅 2026-09-28
 - [ ] ai paper #english 📅 2026-09-28 
 - [ ] cell profile #biology 📅 2026-09-25
-- [ ] read 4.5 #biology 📅 2026-09-24 
-- [ ] add people to google sheet
+- [x] read 4.5 #biology 📅 2026-09-24 ✅ 2026-09-24
+- [x] add people to google sheet ✅ 2026-09-24
