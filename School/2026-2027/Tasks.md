@@ -1,8 +1,32 @@
 - [x] Que hiciste durante el verano? #spanish 📅 2026-08-31 ✅ 2026-08-27
 - [x] Read 3.1 and 3.2 #biology 📅 2026-08-27 ✅ 2026-08-26
-- [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-08-27
+- [x] unit 8 progress check #biology 📅 2026-08-28 ✅ 2026-09-09
 - [x] Unit 1 Progress Check: MCQ #chemistry 📅 2026-09-03 ✅ 2026-08-31
-- [ ] CCP week 2 #english
-- [ ] Page 40 problems 📅 2026-09-02 #calculus
-- [ ] Submit ACT scores 📅 2026-11-01
-- [ ] submit college apps📅 2026-11-01
+- [x] CCP week 2 #english ✅ 2026-09-02
+- [x] Page 40 problems #calculus 📅 2026-09-02 ✅ 2026-09-02
+- [x] Submit ACT scores 📅 2026-11-01 ✅ 2026-09-08
+- [x] submit college apps 📅 2026-11-01 ✅ 2026-09-13
+- [x] i am from poem #english 📅 2026-09-04 ✅ 2026-09-03
+- [x] news #spanish 📅 2026-09-14 ✅ 2026-09-11
+- [x] ccp week 3 #english 📅 2026-09-11 ✅ 2026-09-08
+- [x] [uakron honors college](https://admissions.uakron.edu/register/whc2027) 📅 2027-02-01 ✅ 2026-09-13
+- [x] vsper anki #chemistry 📅 2026-09-28 ✅ 2026-09-10
+- [x] personal narrative rough draft #english 📅 2026-09-14 ✅ 2026-09-13
+- [x] unit 1 progress check #biology 📅 2026-09-14 ✅ 2026-09-10
+- [x] read 4.1 #biology ✅ 2026-09-16
+- [x] peer review https://brightspace.uakron.edu/d2l/le/4851509/discussions/threads/3302622/View #english 📅 2026-09-17 ✅ 2026-09-15
+- [x] read 4.2 📅 2026-09-17 ✅ 2026-09-16
+- [x] Read 4.3 #biology 📅 2026-09-18 ✅ 2026-09-17
+- [x] Plastic Bottle #biology 📅 2026-09-22 ✅ 2026-09-22
+- [x] corrections #biology 📅 2026-09-22 ✅ 2026-09-17
+- [x] read 4.4 ✅ 2026-09-22
+- [x] lab graph ✅ 2026-09-22
+- [x] video #spanish 📅 2026-09-28 ✅ 2026-09-24
+- [x] ai paper #english 📅 2026-09-28 ✅ 2026-09-25
+- [x] cell profile #biology 📅 2026-09-25 ✅ 2026-09-24
+- [x] read 4.5 #biology 📅 2026-09-24 ✅ 2026-09-24
+- [x] add people to google sheet ✅ 2026-09-24
+- [x] Chapter 1738 ✅ 2026-09-26
+- [x] Text ✅ 2026-09-26
+- [x] Daily shart ✅ 2026-09-26  
+- [x] Hey ✅ 2026-09-26

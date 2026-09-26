@@ -1,11 +1,4 @@
 
-Add new homework as a task in any class note, tagged with the class name and a due date, like:
-
-```
-- [ ] Read chapter 4 #biology 📅 2026-08-25
-```
-
-It will automatically show up below — no need to copy anything here.
 
 ## 🔴 Overdue
 
