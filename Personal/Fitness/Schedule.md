@@ -1,13 +1,13 @@
 
-| Day       | Exercise            |
-| --------- | ------------------- |
-| Monday    | Full Body Strength  |
-| Tuesday   | Active Rest         |
-| Wednesday | Volleyball (Cardio) |
-| Thursday  | Full Body Strength  |
-| Friday    | Flexibility         |
-| Saturday  | Active Rest         |
-| Sunday    | Volleyball (Cardio) |
+| Day       | Exercise           |
+| --------- | ------------------ |
+| Monday    | Full Body Strength |
+| Tuesday   | Cardio             |
+| Wednesday | HIIT               |
+| Thursday  | Full Body Strength |
+| Friday    | Flexibility        |
+| Saturday  | Active Recovery    |
+| Sunday    | Active Recovery    |
 > [!success] Requirements
 > 2 - Full Body Strength 
 > 1 - Cardio
