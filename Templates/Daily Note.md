@@ -2,7 +2,7 @@
 tags:
   - daily-note
 ---
-## Interesing Things of the Day
+## Interesting Things of the Day
 
 1. ...
 
