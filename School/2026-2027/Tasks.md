@@ -27,3 +27,4 @@
 - [x] read 4.5 #biology 📅 2026-09-24 ✅ 2026-09-24
 - [x] add people to google sheet ✅ 2026-09-24
 - [x] Chapter 1738 ✅ 2026-09-26
+- [ ] Text 
