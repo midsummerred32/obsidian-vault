@@ -1,6 +1,13 @@
 # Training
 
-- https://www.hearttoheartstna.com/home.html ~ 2 weeks, hybrid
+- Heart to Heart
+	- 2 weeks
+	- hybrid
+	- https://www.hearttoheartstna.com/home.html
+- Med-Cert
+	- 3 weeks
+	- hybrid
+	- https://mymedcert.com/stna-hybrid-evening-classes-cleveland-ohio/
 
 # Jobs
 
