@@ -46,7 +46,3 @@ tags:
 ## Accomplishments and Things to be Grateful For
 
 1. 
-
-## Tasks
-
-- [ ]
