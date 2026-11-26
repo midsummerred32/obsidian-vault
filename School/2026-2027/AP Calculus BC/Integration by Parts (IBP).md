@@ -301,11 +301,11 @@ Using the **Tabular Method**:
 
 ### Example 14: $\int x\sin(x) \, dx$ via Tabular Method
 
-| Sign | Differentiate ($u$) | Integrate ($dv$) | Product Term |
-| :---: | :---: | :---: | :---: |
-| $(+)$ | $x$ | $\sin(x)$ | $-x\cos(x)$ |
-| $(-)$ | $1$ | $-\cos(x)$ | $+\sin(x)$ |
-| $(+)$ | $0$ | $-\sin(x)$ | $0$ |
+| Sign  | Differentiate ($u$) | Integrate ($dv$) | Product Term |
+| :---: | :-----------------: | :--------------: | :----------: |
+| $(+)$ |         $x$         |    $\sin(x)$     | $-x\cos(x)$  |
+| $(-)$ |         $1$         |    $-\cos(x)$    |  $+\sin(x)$  |
+| $(+)$ |         $0$         |    $-\sin(x)$    |     $0$      |
 
 - **Result:**
   $$\int x\sin(x) \, dx = -x\cos(x) + \sin(x) + C$$
