@@ -21,6 +21,10 @@ const todayWorkout = schedule[dayName];
 type: daily-note
 date: <% date.format("YYYY-MM-DD") %>
 week: "[[<% date.format("YYYY-[W]WW") %>]]"
+quarter: "<% date.format("YYYY-[Q]Q") %>"
+year: "<% date.format("YYYY") %>"
+workout_type: "<% todayWorkout %>"
+workout_done: false
 tags:
   - daily-note
 ---
